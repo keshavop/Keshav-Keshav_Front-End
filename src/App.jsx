@@ -25,7 +25,7 @@ function App() {
         </h3>
         <h3>
           Deployed Link
-          <a href="" target="_balnk">
+          <a href="https://steeleye-frontend-keshav.vercel.app/" target="_balnk">
             Vercel
           </a>
         </h3>
