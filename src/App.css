@@ -1,0 +1,11 @@
+*{
+  margin: 10px;
+  padding-left:100px;
+}
+
+li{
+  margin: 50px;
+  padding: 5px;
+  display: block;
+  max-width: 200px;
+}
