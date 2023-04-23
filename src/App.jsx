@@ -17,7 +17,7 @@ function App() {
         <h3>
           GitHub Link
           <a
-            href="https://github.com/keshavop/Front-end-Assignment"
+            href="https://github.com/keshavop/Keshav-Keshav_Front-End"
             target="_blank"
           >
             Github
